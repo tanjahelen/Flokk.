@@ -1,0 +1,9 @@
+{
+  "name": "FLOKK",
+  "short_name": "FLOKK",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f5f3",
+  "theme_color": "#1F6F63",
+  "lang": "no"
+}
